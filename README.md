@@ -17,3 +17,8 @@ Backlight enable/disable instructions and script for Mac OS X High Sierra or old
   13. Do make a disable script, repeat the process and in step 8 replace the script with the following:
     /Applications/led-backlight-osx off\
 
+Thanks to pykler for the script: https://github.com/pykler/led-backlight-osx
+
+Reference: http://community.coolermaster.com/topic/11765-cm-storm-devastator-support-guide/
+
+This instructions have been produced for people like me that didn't find any working instructions. I found that this is the best way to solve the backlight problem on Mac OS X.
